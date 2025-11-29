@@ -34,7 +34,7 @@ I build production-grade AI systems for SaaS companies, agencies, and service bu
 
 - **Email:** chris@resultantai.com
 - **Calendar:** [Book a Call](https://meetings.hubspot.com/chris4642)
-- **LinkedIn:** [chrismott-resultantai](https://www.linkedin.com/in/chrismott-resultantai/)
+- **LinkedIn:** [chrismott-resultantai](https://www.linkedin.com/in/chrismott1/)
 
 ---
 
