@@ -24,9 +24,9 @@ Built by **Chris Mott** — AI Automation Consultant
 
 I build production-grade AI systems for SaaS companies, agencies, and service businesses. Every engagement starts with a working prototype.
 
-- **Rate:** $125/hr execution | $200/hr strategy
+- **Rate:** $150/hr execution | $200/hr strategy
 - **Sweet Spot:** $5K-$25K fixed-price projects
-- **Stack:** Make.com, n8n, Retell AI, VAPI, HubSpot, Claude API
+- **Stack:** Make, n8n, Retell AI, VoiceFlow, VAPI, HubSpot, Claude API, OpenAI API
 
 ---
 
